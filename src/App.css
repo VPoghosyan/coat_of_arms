@@ -1,0 +1,29 @@
+.mainCont{
+    
+  font-family: sans-serif;
+  
+    min-height: 100vh;
+    min-width: 100vw;
+    overflow-y: visible;
+    background-color: black;
+  
+  display: flex;
+  
+  align-items: center;
+  justify-content: center;
+}
+
+.pics{
+  box-sizing: border-box;
+  box-shadow: 0px 15px 205px rgba(212, 206, 206, 0.3);
+}
+
+.neon-light{
+  width: 2px;
+  height: 2px;
+  background: #fff;
+  border-radius: 15px;
+  transition:all 3s;
+ 
+    
+}
